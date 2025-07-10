@@ -1,11 +1,10 @@
 body {
 background-color: rgb(9, 144, 228);
-color: black;
-text-align: left;
-margin: 20px;
-padding: 20px;
+color: navy;
+text-align: center;
 font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 font-size: medium;
+padding: 20px;
 }
 h2 {
 font-size: 38px;
@@ -18,4 +17,15 @@ font-weight: bold;
 }
 li{
 font-weight: 500;
+}
+#top{
+background-color: rgba(40, 99, 227, 0.644);
+}
+#bottom{
+background-color: rgba(40, 99, 227, 0.644);
+}
+button{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    color: navy;
 }
