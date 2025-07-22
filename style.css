@@ -29,3 +29,98 @@ button{
     font-weight: 500;
     color: navy;
 }
+button#red_button {
+    background-color: red;
+}
+
+button#red_button:hover {
+    background-color: darkred;
+}
+button#blue_button {
+    background-color: blue;
+}
+
+button#blue_button:hover {
+    background-color: darkblue;
+}
+button#green_button {
+    background-color: lightgreen;
+}
+
+button#green_button:hover {
+    background-color: darkgreen;
+}
+button#yellow_button {
+    background-color: yellow;
+}
+
+button#yellow_button:hover {
+    background-color: gold;
+}
+button#orange_button {
+    background-color: orange;
+}
+
+button#orange_button:hover {
+    background-color: darkorange;
+}
+button#pink_button {
+    background-color: pink;
+}
+
+button#pink_button:hover {
+    background-color: #db6387;
+}
+
+button#purple_button {
+    background-color: darkviolet;
+}
+
+button#purple_button:hover {
+    background-color: purple;
+}
+
+button#magenta_button {
+    background-color: magenta;
+}
+
+button#magenta_button:hover {
+    background-color: darkmagenta;
+}
+
+button#cyan_button {
+    background-color: cyan;
+}
+
+button#cyan_button:hover {
+    background-color: darkcyan;
+}
+
+button#teal_button {
+    background-color: teal;
+}
+
+button#teal_button:hover {
+    background-color: #00555a;
+}
+button#brown_button {
+    background-color: darkgoldenrod;
+}
+
+button#brown_button:hover {
+    background-color: #82493C;
+}
+
+button#cream_button {
+    background-color: #FDFBD4;
+}
+
+button#cream_button:hover {
+    background-color: #A59079;
+}
+
+button{
+    color: darkslateblue;
+    border-radius: 5px;
+    border-color: white;
+}
