@@ -2,8 +2,9 @@
 
 //check redyness of document DOM
 $(document).ready(function(){
-console.log("It is time to start javascriptprogram");
+console.log("It is time to start the Javascript Program");
 //triggersclickeventonClick()of redbutton
+
 $("#blue_button").click(function()
 { 
 console.log("changing color blue on led"); 
